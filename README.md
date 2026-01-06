@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @yonsbro
-- 👀 I’m interested in code programming
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+@yons_bro
+bloodcrime88@gmail.com
+Newbie
+IT Support
+IT Devops
+
 
 <!---
 yonsbro/yonsbro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
